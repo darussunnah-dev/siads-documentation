@@ -11,11 +11,11 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "SIADS Documentation",
-  tagline: "Dinosaurs are cool",
+  tagline: "Sistem Informasi Akademik Darus-Sunnah",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://siads-docs.netlify.app",
+  url: "https://docs.aisdarsun.web.id",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -46,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/darussunnah-dev/siads-documentation/blob/main/",
         },
         blog: {
           showReadingTime: true,
@@ -57,7 +57,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/darussunnah-dev/siads-documentation/blob/main/",
           // Useful options to enforce blogging best practices
           onInlineTags: "warn",
           onInlineAuthors: "warn",
@@ -90,7 +90,7 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/darussunnah-dev/siads-documentation",
             label: "GitHub",
             position: "right",
           },
@@ -103,25 +103,29 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "Pendahuluan",
+                to: "/docs/pendahuluan",
               },
             ],
           },
           {
-            title: "Community",
+            title: "Serambi Kiai",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "Kiai Ali Mustafa Yaqub",
+                href: "#",
               },
               {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                label: "Kiai Zia Ul Haramein",
+                href: "#",
               },
               {
-                label: "X",
-                href: "https://x.com/docusaurus",
+                label: "PSB Darus-Sunnah",
+                href: "https://psb.darussunnah.sch.id/",
+              },
+              {
+                label: "SPMB Darus-Sunnah",
+                href: "https://spmb.darussunnah.sch.id/",
               },
             ],
           },
@@ -133,13 +137,17 @@ const config = {
                 to: "/blog",
               },
               {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                label: "Pesantren Darus-Sunnah",
+                href: "https://darussunnah.sch.id/",
+              },
+              {
+                label: "Majalah Nabawi",
+                href: "https://majalahnabawi.com/",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} SIADS Documentation Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
