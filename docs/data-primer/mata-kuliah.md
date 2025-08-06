@@ -7,7 +7,7 @@ description: Data mata kuliah
 
 ## Create
 
-![Locale Dropdown](./img/mata-kuliah-001.png)
+![Gambar](./img/mata-kuliah-001.png)
 
 | Field    | Type    | Required | Example            |
 | -------- | ------- | :------: | ------------------ |
@@ -18,16 +18,16 @@ description: Data mata kuliah
 
 ## Read
 
-![Locale Dropdown](./img/mata-kuliah-002.png)
+![Gambar](./img/mata-kuliah-002.png)
 
 ## Update
 
 Ubah data jika diperlukan. Hati-hati dalam mengubah data mata kuliah.
 
-![Locale Dropdown](./img/mata-kuliah-003.png)
+![Gambar](./img/mata-kuliah-003.png)
 
 ## Delete
 
 Hapus data jika diperlukan. Hati-hati dalam menghapus data mata kuliah.
 
-![Locale Dropdown](./img/mata-kuliah-004.png)
+![Gambar](./img/mata-kuliah-004.png)

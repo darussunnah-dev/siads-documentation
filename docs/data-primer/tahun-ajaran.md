@@ -7,7 +7,7 @@ description: Data tahun ajaran
 
 ## Create
 
-![Locale Dropdown](./img/tahun-ajaran-001.png)
+![Gambar](./img/tahun-ajaran-001.png)
 
 | Field                 | Type     | Required | Example |
 | --------------------- | -------- | :------: | ------- |
@@ -23,16 +23,16 @@ Lalu buat data baru dengan *Tahun Awal* diisi dengan *2026* dan centang opsi *Ta
 
 Data yang telah diinput akan muncul beruturan dari tahun ajaran paling besar (2026) ke paling kecil (2024)
 
-![Locale Dropdown](./img/tahun-ajaran-002.png)
+![Gambar](./img/tahun-ajaran-002.png)
 
 ## Update
 
 Ubah data jika diperlukan. Hati-hati dalam mengubah data tahun ajaran.
 
-![Locale Dropdown](./img/tahun-ajaran-003.png)
+![Gambar](./img/tahun-ajaran-003.png)
 
 ## Delete
 
 Demi kenyamanan dan keamanan sistem, maka data tahun ajaran yang telah diinput, tidak bisa dihapus. Karena dapat menyebabkan kerusakan data lain yang berhubungan dengan tahun ajaran tersebut.
 
-![Locale Dropdown](./img/tahun-ajaran-004.png)
+![Gambar](./img/tahun-ajaran-004.png)
