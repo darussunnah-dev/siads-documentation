@@ -1,0 +1,8 @@
+{
+  "label": "Autentikasi",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Autentikasi SIADS berupa login, registrasi, dan lupa akun."
+  }
+}
