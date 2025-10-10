@@ -1,0 +1,8 @@
+{
+  "label": "Mata Kuliah",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Data mata kuliah di SIADS."
+  }
+}

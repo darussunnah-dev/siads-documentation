@@ -5,6 +5,10 @@ description: Data tahun ajaran
 
 # Tahun Ajaran
 
+## Overview
+
+Menu ini diakses melalui menu **Data Master** kemudian **Tahun Ajaran**.
+
 ## Create
 
 ![Gambar](./img/tahun-ajaran-001.png)

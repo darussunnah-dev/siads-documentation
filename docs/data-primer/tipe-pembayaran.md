@@ -5,6 +5,10 @@ description: Data tipe pembayaran
 
 # Tipe Pembayaran
 
+## Overview
+
+Menu ini diakses melalui menu **Pembayaran** kemudian **Master Pembayaran**.
+
 ## Create
 
 ![Gambar](./img/tipe-pembayaran-001.png)

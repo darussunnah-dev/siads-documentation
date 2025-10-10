@@ -5,6 +5,10 @@ description: Data mata kuliah
 
 # Mata Kuliah
 
+## Overview
+
+Menu ini diakses melalui menu **Data Master** kemudian **Mata Kuliah**.
+
 ## Create
 
 ![Gambar](./img/mata-kuliah-001.png)
